@@ -1,4 +1,4 @@
-# Agile-Scrum-Business-Intelligence-Excel
+# Omnichannel-Business-Intelligence-Excel
 
 Phase 1 of an agile retail BI ecosystem. Leveraged Power Query ETL and star-schema model to isolate operational margin leakages, evaluate category risk metrics, and establish the functional blueprint for enterprise SQL migration.
 # Omnichannel Retail Profitability Ecosystem (Phase 1 Portfolio)
